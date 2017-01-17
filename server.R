@@ -20,10 +20,10 @@ shinyServer(function(input, output) {
       '<center>Powered by<img src="MyPhoto.png" width="200"></center>'
     ),
     HTML(
-      '<center>© DYBOS APPS 2017 ALL RIGHTS RESERVED</center>'
+      '<center>© DYBOS APPS 2017 ALL RIGHTS RESERVED<img src="no-photo.png" width="100"></center>'
     ),
-    #h5("Powered by", tags$img(src='g', heigth=200, width=200)),
-    easyClose = FALSE
+    easyClose = FALSE,
+    footer = modalButton("Close")
   ))
   
   
@@ -60,6 +60,14 @@ shinyServer(function(input, output) {
     }
     data()
   })
+  output$myhist <- renderPlot({
+    
+    colm <- data$Salary
+    
+    hist(colm)
+    
+  })
+  
   
   
   output$markdown <- renderUI({
@@ -92,10 +100,7 @@ shinyServer(function(input, output) {
         tabPanel("Data", tableOutput("table")),
         tabPanel("Summary", tableOutput("sum")),
         tabPanel("MarkDown", tableOutput("markdown")),
-        tabPanel("Maps", leafletOutput(
-          'mapa', width = 1000, height = 800
-        )),
-        tabPanel("Most popular locations", tableOutput("locCount"))
+        tabPanel("Maps", leafletOutput('mapa', width = 1000, height = 800))
       )
   })
   

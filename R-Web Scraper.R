@@ -1,6 +1,6 @@
 library(rvest)
 library(xml2)
-
+library(ggplot2)
 container<-data.frame()
 
 for(i in c(1:10)) {
@@ -39,7 +39,7 @@ for (x in 1:length(townJob)) {
 }
 }
 container
-a<-sample(8000:22000,248)
+a<-sample(3000:22000,248)
 
 for (s in 1:248) {
   container[s,4]<-a[s]
@@ -52,3 +52,13 @@ write.csv(container, file = "/Users/piotrdybowski/Desktop/Projekt R/R-Scraper.cs
 
 data <- read.csv(file = "/Users/piotrdybowski/Desktop/Projekt R/R-Scraper.csv")
 
+h<-hist(container[,4], col = rainbow(10), main = "Easy histogram", xlab = "Salary")
+h
+dataForHist <- data.frame()
+dataForHist <- data
+
+
+
+hgg<-ggplot(data = data,aes(x=container[,4]))
+hgg2<-hgg + geom_histogram(binwidth = 100,aes(fill=data[,4]),colour = "black") + xlab(colnames(data)[4]) + ylab("Count")
+hgg2

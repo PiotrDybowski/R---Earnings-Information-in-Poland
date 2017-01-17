@@ -1,249 +1,249 @@
 "","Job","Company","Town","Salary"
-"1","Programista Java","Human Resources Poland Sp z o.o.","Tychy (śląskie)",19668
-"2","Administrator Windows Server","Advicom Sp. z o.o.","Jastrzębie-Zdrój, Katowice, Home Office (śląskie)",20654
-"3","(Senior) Software Engineer (m/f) ","PGB HR","Berlin (berlin)",10416
-"4","C/C++ Software Engineer","DPM Sp. z o.o.","Warszawa (mazowieckie)",20035
-"5","Projektant/-ka telemechaniki","Advicom Sp. z o.o.","Jelenia Góra (dolnośląskie)",18831
-"6","Administrator Linux","PGB HR","Myszków (śląskie)",13706
-"7","Back-End/PHP Developer","PGB HR","Jastrzębie-Zdrój, Katowice, Home Office (śląskie)",21167
-"8","Programista Aplikacji Webowych","PGB HR","Chorzów (śląskie)",11014
-"9","Programista .NET","PGB HR","Wrocław (dolnośląskie)",17592
-"10","Mobile Solution Architect (Android)","PGB HR","Poznań (wielkopolskie)",17097
-"11","Inżynier Systemowy","itelligence Sp. z o.o.","Wrocław (dolnośląskie)",10075
-"12","Specjalista ds. monitoringu","itelligence Sp. z o.o.","Bydgoszcz (kujawsko-pomorskie)",16899
-"13","Sharepoint Programmer","itelligence Sp. z o.o.","Tarnowo Podgórne (małopolskie)",17128
-"14","LIDER SAP APO ","Voyager.com","Poznań (wielkopolskie)",20173
-"15","Programista .NET","Adecco Poland Sp. z o.o.","Poznań (wielkopolskie)",11462
-"16","Regenersis-Kontroler jakości","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",14004
-"17","Regenersis-Kontroler jakości","Adecco Poland Sp. z o.o.","Katowice (śląskie)",16967
-"18","IT Migration Specialist","Adecco Poland Sp. z o.o.","Katowice (śląskie)",20679
-"19","Technik/Serwisant ","Adecco Poland Sp. z o.o.","Janki (mazowieckie)",20083
-"20","Technik/Serwisant ","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",9626
-"21","Technik/Serwisant ","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",17260
-"22","Regeneris - Technik/Serwisant Janki","Adecco Poland Sp. z o.o.","Janki (mazowieckie)",16272
-"23","Regeneris - Technik/Serwisant Janki","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",17868
-"24","Inżynier projektant sprzętu elektronicznego",NA,"Tarczyn (mazowieckie)",11776
-"25","C/C++ Software Engineer","PGB HR","Warszawa (mazowieckie)",14580
-"26","Programista C#","PRESS-SERVICE Monitoring Mediów Sp. z o.o.","Jelenia Góra (dolnośląskie)",11319
-"27","Java Developer","Indata Solutions S.A.","Poznań (wielkopolskie)",15381
-"28","Process Improvement Specialist","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Katowice (śląskie)",13059
-"29","IT Security Leader","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",13665
-"30","Junior Consultant/Consultant (BI, Cognos)","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",16721
-"31","Junior Consultant Admin","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",18722
-"32","Junior Consultant (EAG)","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",16391
-"33","License compliance consultant/IT Consultant","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",21278
-"34","Senior Consultant/Supervisor CRM ","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",21338
-"35","Consultant/Senior Consultant (Application)","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",9381
-"36","Senior Business Analyst ","Capgemini Polska Sp. z o.o.","Rzeszów (podkarpackie)",13329
-"37","Java Developer","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",14715
-"38","E-commerce team leader","ManpowerGroup Sp. z o.o.","Wrocław (dolnośląskie)",16848
-"39","Task Order Manager","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",10484
-"40","[Cisco] High-Touch Operations Management (HTOM) with German ","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",16613
-"41","Project Manager (2 months) ","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",16447
-"42","Customer Service Support ","ManpowerGroup Sp. z o.o.","Gdańsk (pomorskie)",16383
-"43","SQL Developer","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",21548
-"44",".Net Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",20227
-"45","Junior SQL Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",16276
-"46","IT Project Manager","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",12775
-"47","C++ Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",8041
-"48","Programista Delphi","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",15790
-"49","Junior Java Developer","ManpowerGroup Sp. z o.o.","Gdynia (pomorskie)",18965
-"50","Java Developer","ManpowerGroup Sp. z o.o.","Gdynia (pomorskie)",14380
-"51","Communication Manager ","ManpowerGroup Sp. z o.o.","Gdynia (pomorskie)",21170
-"52","Tester automatyczny","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",10545
-"53","Linux Engineer (with PHP and Bash)","ManpowerGroup Sp. z o.o.","Wrocław (dolnośląskie)",12397
-"54","Linux Engineer (with PHP and bash)","ManpowerGroup Sp. z o.o.","Wrocław (dolnośląskie)",10738
-"55","Global License Manager Software & Hardware ","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",10864
-"56","Junior Developer ","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",15699
-"57","Frontend / web developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",8845
-"58","Software Test Engineer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",16509
-"59","C# .Net Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",21496
-"60","Support Team Leader","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",19303
-"61","Operations Manager with French","ManpowerGroup Sp. z o.o.","Gdańsk (pomorskie)",12971
-"62","Network Engineer T1","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",9421
-"63","Network Engineer T2","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",14625
-"64","Network Engineer T3","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",15121
-"65",".Net Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",11672
-"66","BI Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",11544
-"67","High Touch Engineer","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",12257
-"68","Programista C#","KS Service","Poznań (wielkopolskie)",10371
-"69","Programista C#","KS Service","Bielsko-Biała (śląskie)",10221
-"70","Inżynier Wsparcia Informatycznego","KS Service","Poznań (wielkopolskie)",15161
-"71","Programista systemów wbudowanych","KS Service","Wrocław (dolnośląskie)",9094
-"72","Programista C#","KS Service","Poznań (wielkopolskie)",8294
-"73","Programista C#","KS Service","Bielsko-Biała (śląskie)",21644
-"74","Tester oprogramowania","KS Service","Bielsko-Biała (śląskie)",17906
-"75","Master Data Lead","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",12126
-"76","Tester automatyczny","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",15042
-"77","Java Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",11638
-"78"," Web Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",9565
-"79","Senior C#/.net Developer (with C++) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",14040
-"80","C++  Developer","HAYS POLAND Sp. z o.o.","Katowice (śląskie)",21990
-"81","Senior Software Developer .NET/C# ","Capgemini Polska Sp. z o.o.","Wrocław (dolnośląskie)",21794
-"82","Junior Project Manager","HAYS POLAND Sp. z o.o.","Kraków (małopolskie)",9214
-"83","Specjalista ds. e - marketingu","HAYS POLAND Sp. z o.o.","Katowice (śląskie)",18340
-"84","J2EE Senior Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",17579
-"85","Web Developer ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",11862
-"86","Technical Solution Owner ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",8636
-"87","Junior Front-end Developer ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",17583
-"88","Programista CNC (frezarki, tokarki).","PGB HR","Kraków (małopolskie)",12819
-"89","Programista CNC (frezarki, tokarki).","PGB HR","Kraków (małopolskie)",15067
-"90","IT Specialist","HAYS POLAND Sp. z o.o.","Włocławek (kujawsko-pomorskie)",14243
-"91","Młodszy Administrator Unix/Linux ","Capgemini Polska Sp. z o.o.","Płock (mazowieckie)",19683
-"92","(Junior) VMware Engineer","Capgemini Polska Sp. z o.o.","Wrocław (dolnośląskie)",11957
-"93","Junior Mobile Developer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",19171
-"94","IT Security and Compliance Analyst","Most Wanted Doradztwo Personalne","Opole (opolskie)",15285
-"95","Solution Architect","HAYS POLAND Sp. z o.o.","Katowice (ślaskie)",10025
-"96","SAP Analyst ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",9219
-"97","Automation Project Coordinator ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",14264
-"98","(Junior) Windows Server Administrator ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",11964
-"99","DevOps Engineer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",19578
-"100","(Junior) Linux Engineer","Capgemini Polska Sp. z o.o.","Katowice (ślaskie)",15066
-"101","(Junior) Windows Engineer","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",13515
-"102","DB Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",11215
-"103","Analityk z PM","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",9799
-"104","Linux Administrator ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",11401
-"105","RPA/Automations Senior Specialist ","Capgemini Polska Sp. z o.o.","Krakow (małopolskie)",17167
-"106","Storage System Consultant ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",18925
-"107","Software Developer (Android/iOS and .NET) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",16541
-"108","Specjalista Wsparcia Techniczno - Produktowego (oleje/paliwa)","Most Wanted Doradztwo Personalne","Katowice (śląskie)",16425
-"109","Windows Engineer ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",14823
-"110","Dynamics AX 2009 Developer","HAYS POLAND Sp. z o.o.","Katowice (śląskie)",11923
-"111","Senior Business Intelligence Consultant ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",17694
-"112","Senior Network Engineer (English Speaker) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",8478
-"113","Java Developer","PGB HR","Kraków (małopolskie)",13204
-"114","Senior SharePoint Solutions Developer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",20303
-"115","Senior Network Engineer","HAYS POLAND Sp. z o.o.","Grodzisk Mazowiecki (mazowieckie)",11350
-"116","Java developer","HAYS POLAND Sp. z o.o.","Kraków (małopolskie)",18667
-"117","Analityk biznesowy","HAYS POLAND Sp. z o.o.","Warszawa Ursus",20592
-"118","Senior Java Developer","HAYS POLAND Sp. z o.o.","Łódź (łódzkie)",13229
-"119","Senior Test Automation Developer ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",11674
-"120","Konsultant Business Intelligence","Most Wanted Doradztwo Personalne","Łódź (łódzkie)",21389
-"121","Java/ J2EE Architect / Tech Lead","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",16047
-"122","Transition Manager ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",8638
-"123","Senior SharePoint Solutions Developer (German Speaker) ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",20314
-"124","Asystent ds. Wsparcia Infrastruktury ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",8610
-"125","Front-end Developer","HAYS POLAND Sp. z o.o.","Katowice (śląskie)",9587
-"126","Senior Java JEE Developer ","HAYS POLAND Sp. z o.o.","Kraków (małopolskie)",17434
-"127","Java/ AngularJS Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",9730
-"128","Inżynier  ds. Instalacji  i Realizacji  Usług","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",10577
-"129","Senior Java Developer ","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",12584
-"130","Norwegian Customer Service Advisor ","Capgemini Polska Sp. z o.o.","Wrocław (dolnośląskie)",11931
-"131","Administrator Aplikacji","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",18252
-"132","CLIC’kaj po angielsku! Program rozwojowy dla osób ze znajomością języka angielskiego. ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",16597
-"133","BMC Senior Developer (Senior Tools Consultant) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",11848
-"134","PHP Developer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",18008
-"135","Senior IT Innovation Specialist ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",15469
-"136","Software Developer (.Net/C#)","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",20007
-"137","Senior User Experience Designer ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",16379
-"138","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Katowice (śląskie)",12572
-"139","Młodszy programista VBA (k/m) ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",13317
-"140","Senior Web Developer/ Frontend Developer","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",13659
-"141","Project Manager","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",10604
-"142","C C++ Embedded Software Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21597
-"143","UX Researcher","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",15709
-"144",".NET Software Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",9019
-"145","Java Developer – challenging project in e-commerce","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",10788
-"146","Software Engineer","CPL Jobs Sp. z o.o.","Warszawa (mazowieckie)",20055
-"147","Młodszy programista VBA (k/m) ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20415
-"148","Programista Embedded ","CPL Jobs Sp. z o.o.","mazowieckie",17937
-"149","Programista C/C++","CPL Jobs Sp. z o.o.","mazowieckie",17665
-"150","QA Engineer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",17139
-"151","Full Stack Engineer","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",9263
-"152","IT Service Level Manager","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",19779
-"153","Oracle / SQL Engineer ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",18020
-"154","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18471
-"155","ABAP Developer/Senior ABAP Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",15448
-"156","Senior Backend/Frontend Engineer (USA company)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8595
-"157","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13727
-"158","Supply Chain Specialist","CPL Jobs Sp. z o.o.","Zabrze (śląskie)",18562
-"159","Senior Frontend Engineer (React / Angular)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",19401
-"160","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",11619
-"161","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",10523
-"162","ERP Implementation Consultant with German","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18230
-"163","Continuous Improvement Specialist (m/f)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",10366
-"164","Continuous Improvement Specialist (m/f)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",15087
-"165","Quality Assurance Specialist","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14607
-"166","ERP Implementation Consultant with German","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",9747
-"167","QA Specialist (Regular or Senior)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",16464
-"168","SAP Business Analyst SD - new investment in Poznań (IT SAP Center for Europe)",NA,"Poznań (wielkopolskie)",20146
-"169","Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",20704
-"170","Frontend Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20683
-"171","Frontend Developer ","CPL Jobs Sp. z o.o.","Opole (opolskie)",10508
-"172","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20512
-"173","Sharepoint Developer","CPL Jobs Sp. z o.o.","Opole (opolskie)",19497
-"174","Product Owner","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",19754
-"175","VBA Developer (Expert)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",18626
-"176","QA Specialist (Regular or Senior)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21236
-"177","Programista C/C++","CPL Jobs Sp. z o.o.","mazowieckie",19825
-"178","IT Service Level Manager","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",20971
-"179","Software Test Automation Engineer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18728
-"180","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13955
-"181","Senior / Lead Java Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8457
-"182","Junior / Regular QA Tester","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",12962
-"183","Embedded Software Engineer ","CPL Jobs Sp. z o.o.","Zielona Góra (lubuskie)",12401
-"184","Senior DevOps Engineer ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",16930
-"185","Software Tester ","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",14532
-"186","C++ Software Developer","CPL Jobs Sp. z o.o.","lubuskie",13425
-"187","SAP Business Analyst FI - new investment in Poznań (IT SAP Center for Europe)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",15765
-"188","DevOps Engineer (Remote work possible)","CPL Jobs Sp. z o.o.","Zielona Góra (lubuskie)",20371
-"189","Test Engineer","CPL Jobs Sp. z o.o.","Gdynia (pomorskie)",13754
-"190","IT Business Analyst","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8476
-"191","Business Analyst IT","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13351
-"192","Business Analyst IT","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21282
-"193","IT Project Manager ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",20731
-"194","SaaS Application Engineer (React.js)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13049
-"195","Network Technical Architect","CPL Jobs Sp. z o.o.","kujawsko-pomorskie",17574
-"196","Agile Coach ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14122
-"197","ABAP Developer/Senior ABAP Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8404
-"198","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13832
-"199","Android Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",10058
-"200","C# Developer (with C++)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",12094
-"201","IT Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",11504
-"202","Manual Tester ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",11474
-"203","VBA Developer ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",9106
-"204","Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",11393
-"205","Java Web Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18338
-"206","SaaS Application Engineer (Java, Python)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21776
-"207","ERP Implementation Consultant with German","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14473
-"208","Continuous Improvement Specialist (m/f)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",8451
-"209","Cloud Application Engineer (Java, Python)","CPL Jobs Sp. z o.o.","dolnośląskie",16410
-"210","Web developer/ Business Analyst","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20858
-"211","ASP.NET MVC Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",11303
-"212","Android Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",16972
-"213","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13615
-"214","Java Web Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20117
-"215"," Web Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",12300
-"216","Network Technical Architect","CPL Jobs Sp. z o.o.","kujawsko-pomorskie",10474
-"217","IT Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",14569
-"218","Test Engineer","CPL Jobs Sp. z o.o.","Gdynia (pomorskie)",21435
-"219","Java Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",13871
-"220","Tester automatyczny","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",19197
-"221","Cloud Senior Front End Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8817
-"222","C# Developer (with C++)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",8437
-"223","Młodszy Tester/Analityk IT - bez doświadczenia","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",15077
-"224","Konsultant SAP FI/CO","itelligence Sp. z o.o.","Poznań (wielkopolska)",10331
-"225","Test Engineer","CPL Jobs Sp. z o.o.","Katowice (śląskie)",11817
-"226","Konsultant SAP WM/MM","itelligence Sp. z o.o.","Warszawa (mazowieckie)",15489
-"227","Konsultant SAP SD","itelligence Sp. z o.o.","Gdynia (pomorskie)",20418
-"228","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",11020
-"229","Konsultant SAP ABAP","itelligence Sp. z o.o.","Warszawa (mazowieckie)",10919
-"230","QA / Test Leader","CPL Jobs Sp. z o.o.","Katowice (śląskie)",12169
-"231","Kierownik Projektu/Presales Manager","itelligence Sp. z o.o.","Poznań (wielkopolskie)",13886
-"232","Konsultant SAP Hybris/Architekt SAP Hybris","itelligence Sp. z o.o.","Katowice (śląskie)",19348
-"233","Konsultant SAP FI/CO","itelligence Sp. z o.o.","Warszawa (warszawa)",8269
-"234","Administrator systemu SAP Basis","itelligence Sp. z o.o.","Wrocław (dolnośląskie)",13591
-"235","Network Technical Architect","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",12370
-"236","Automation Test Engineer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",17368
-"237","Test Engineer","CPL Jobs Sp. z o.o.","Warszawa (mazowieckie)",10296
-"238","Manual Tester ","CPL Jobs Sp. z o.o.","Katowice (śląskie)",18497
-"239","Manual Tester ","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",12008
-"240","Senior Manual Tester ","CPL Jobs Sp. z o.o.","Katowice (śląskie)",16381
-"241",NA,NA,"Poznań (wielkopolskie)",18188
-"242",NA,NA,"Poznań (wielkopolskie)",15986
-"243",NA,NA,"kujawsko-pomorskie",16013
-"244",NA,NA,"Wrocław (dolnośląskie)",12348
-"245",NA,NA,"Gdynia (pomorskie)",19721
-"246",NA,NA,"Wrocław (dolnośląskie)",20345
-"247",NA,NA,"Wrocław (dolnośląskie)",12502
-"248",NA,NA,"Wrocław (dolnośląskie)",11092
+"1","Administrator Windows Server","Advicom Sp. z o.o.","Jastrzębie-Zdrój, Katowice, Home Office (śląskie)",15400
+"2","Programista Java","Human Resources Poland Sp z o.o.","Tychy (śląskie)",13584
+"3","(Senior) Software Engineer (m/f) ","PGB HR","Berlin (berlin)",10825
+"4","C/C++ Software Engineer","DPM Sp. z o.o.","Warszawa (mazowieckie)",7779
+"5","Projektant/-ka telemechaniki","Advicom Sp. z o.o.","Jelenia Góra (dolnośląskie)",14006
+"6","Administrator Linux","PGB HR","Myszków (śląskie)",7604
+"7","Back-End/PHP Developer","PGB HR","Jastrzębie-Zdrój, Katowice, Home Office (śląskie)",6347
+"8","Programista Aplikacji Webowych","PGB HR","Chorzów (śląskie)",12720
+"9","Programista .NET","PGB HR","Wrocław (dolnośląskie)",17606
+"10","Mobile Solution Architect (Android)","PGB HR","Poznań (wielkopolskie)",3260
+"11","Inżynier Systemowy","itelligence Sp. z o.o.","Wrocław (dolnośląskie)",10612
+"12","Specjalista ds. monitoringu","itelligence Sp. z o.o.","Bydgoszcz (kujawsko-pomorskie)",13262
+"13","Sharepoint Programmer","itelligence Sp. z o.o.","Tarnowo Podgórne (małopolskie)",17803
+"14","LIDER SAP APO ","Voyager.com","Poznań (wielkopolskie)",11909
+"15","Programista .NET","ManpowerGroup Sp. z o.o.","Poznań (wielkopolskie)",10263
+"16","Network Engineer T1","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",18804
+"17","Network Engineer T2","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",6683
+"18","Network Engineer T3","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",9112
+"19","C++ Developer","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",5575
+"20","Senior Software Developer .NET/C# ","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",6525
+"21","Programista Delphi","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",21450
+"22","Junior Java Developer","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",9126
+"23","Java Developer","HAYS POLAND Sp. z o.o.","Kraków (małopolskie)",3959
+"24","Junior Project Manager",NA,"Katowice (śląskie)",8942
+"25","Specjalista ds. e - marketingu","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",17379
+"26","J2EE Senior Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",20885
+"27","Java Developer","ManpowerGroup Sp. z o.o.","Gdynia (pomorskie)",7146
+"28","Web Developer ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",8145
+"29","Technical Solution Owner ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",16394
+"30","Communication Manager ","ManpowerGroup Sp. z o.o.","Gdynia (pomorskie)",19948
+"31","Tester automatyczny","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",12762
+"32","Junior Front-end Developer ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",8915
+"33","Programista CNC (frezarki, tokarki).","PGB HR","Włocławek (kujawsko-pomorskie)",6881
+"34","Regenersis-Kontroler jakości","Adecco Poland Sp. z o.o.","Janki (mazowieckie)",4979
+"35","Programista CNC (frezarki, tokarki).","PGB HR","Płock (mazowieckie)",12156
+"36","Regenersis-Kontroler jakości","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",15264
+"37","IT Specialist","HAYS POLAND Sp. z o.o.","Wrocław (dolnośląskie)",14545
+"38","E-commerce team leader","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",16664
+"39","Młodszy Administrator Unix/Linux ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",21382
+"40","(Junior) VMware Engineer","Capgemini Polska Sp. z o.o.","Opole (opolskie)",3725
+"41","Junior Mobile Developer ","Capgemini Polska Sp. z o.o.","Katowice (ślaskie)",9053
+"42","IT Security and Compliance Analyst","Most Wanted Doradztwo Personalne","Kraków (małopolskie)",17812
+"43","IT Migration Specialist","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",10562
+"44","Solution Architect","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",5122
+"45","SAP Analyst ","Capgemini Polska Sp. z o.o.","Wrocław (dolnośląskie)",5940
+"46","Automation Project Coordinator ","Capgemini Polska Sp. z o.o.","Krakow (małopolskie)",12390
+"47","Linux Engineer (with PHP and Bash)","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",14359
+"48","Linux Engineer (with PHP and bash)","ManpowerGroup Sp. z o.o.","Wrocław (dolnośląskie)",14346
+"49","(Junior) Windows Server Administrator ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",11655
+"50","DevOps Engineer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",10260
+"51","(Junior) Linux Engineer","Capgemini Polska Sp. z o.o.","Katowice (ślaskie)",20933
+"52","(Junior) Windows Engineer","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",18056
+"53","DB Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",11110
+"54","Java Developer&Windows Administrator","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",19223
+"55","Task Order Manager","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",5138
+"56","Analityk z PM","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",9675
+"57","Test Engineer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",17708
+"58","Linux Administrator ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",6142
+"59","RPA/Automations Senior Specialist ","Capgemini Polska Sp. z o.o.","Krakow (małopolskie)",13871
+"60","Storage System Consultant ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",21572
+"61","[Cisco] High-Touch Operations Management (HTOM) with German ","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",8859
+"62","Project Manager (2 months) ","ManpowerGroup Sp. z o.o.","Gdańsk (pomorskie)",18733
+"63","Customer Service Support ","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",20120
+"64","Software Developer (Android/iOS and .NET) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",21701
+"65","SQL Developer","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",3629
+"66","Specjalista Wsparcia Techniczno - Produktowego (oleje/paliwa)","Most Wanted Doradztwo Personalne","Warszawa (mazowieckie)",13349
+"67","Global License Manager Software & Hardware ","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",5900
+"68",".Net Developer","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",8769
+"69","Junior SQL Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",14780
+"70","Windows Engineer ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",8411
+"71","IT Project Manager","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",15179
+"72","Master Data Lead","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",9108
+"73","Dynamics AX 2009 Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",21181
+"74","Senior Business Intelligence Consultant ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",14566
+"75","Video Conferencing Analyst","HAYS POLAND Sp. z o.o.","Poznań (wielkopolskie)",19452
+"76","Senior Network Engineer (English Speaker) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",11743
+"77","C++  Developer","HAYS POLAND Sp. z o.o.","Katowice (śląskie)",12951
+"78"," Informix Consultant","HAYS POLAND Sp. z o.o.","Wrocław (dolnośląskie)",19261
+"79","Java Developer","PGB HR","Warsaw",10923
+"80","Senior SharePoint Solutions Developer ","Capgemini Polska Sp. z o.o.","Grodzisk Mazowiecki (mazowieckie)",11730
+"81","Senior Network Engineer","HAYS POLAND Sp. z o.o.","Kraków (małopolskie)",10105
+"82","Java developer","HAYS POLAND Sp. z o.o.","Warszawa Ursus",10317
+"83","Analityk biznesowy","HAYS POLAND Sp. z o.o.","Łódź (łódzkie)",19082
+"84","Senior Java Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",5662
+"85","Senior C#/.net Developer (with C++) ","Capgemini Polska Sp. z o.o.","Łódź (łódzkie)",12706
+"86","Junior Developer ","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",7060
+"87","Senior Test Automation Developer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",13003
+"88","Senior Business Analyst ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",17533
+"89","Frontend / web developer","ManpowerGroup Sp. z o.o.","Kraków (małopolskie)",15572
+"90","BI Developer","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",20099
+"91","Konsultant Business Intelligence","Most Wanted Doradztwo Personalne","Kraków (małopolskie)",18394
+"92","Java/ J2EE Architect / Tech Lead","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",13215
+"93","Software Test Engineer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",16204
+"94","C# .Net Developer","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",13938
+"95","Support Team Leader","ManpowerGroup Sp. z o.o.","Warszawa (mazowieckie)",16927
+"96","Transition Manager ","Capgemini Polska Sp. z o.o.","Warszawa (mazowieckie)",7024
+"97","Senior SharePoint Solutions Developer (German Speaker) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",17619
+"98","Operations Manager with French","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",3606
+"99","Technik/Serwisant ","Adecco Poland Sp. z o.o.","Gdańsk (pomorskie)",11872
+"100","Technik/Serwisant ","Adecco Poland Sp. z o.o.","Janki (mazowieckie)",13428
+"101","Technik/Serwisant ","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",6046
+"102","Regeneris - Technik/Serwisant Janki","Adecco Poland Sp. z o.o.","Tarczyn (mazowieckie)",3770
+"103","Regeneris - Technik/Serwisant Janki","Adecco Poland Sp. z o.o.","Janki (mazowieckie)",11379
+"104","Front-end Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",10410
+"105","Java/ AngularJS Developer","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",10136
+"106","Inżynier  ds. Instalacji  i Realizacji  Usług","HAYS POLAND Sp. z o.o.","Warszawa (mazowieckie)",14242
+"107","Norwegian Customer Service Advisor ","Capgemini Polska Sp. z o.o.","Wrocław (dolnośląskie)",5471
+"108","C/C++ Software Engineer","PGB HR","Katowice (śląskie)",20245
+"109","Inżynier projektant sprzętu elektronicznego","Adecco Poland Sp. z o.o.","Warszawa (mazowieckie)",4297
+"110","Administrator Aplikacji","HAYS POLAND Sp. z o.o.","Jelenia Góra (dolnośląskie)",12189
+"111","CLIC’kaj po angielsku! Program rozwojowy dla osób ze znajomością języka angielskiego. ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",21313
+"112","BMC Senior Developer (Senior Tools Consultant) ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",12266
+"113","PHP Developer ","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",7574
+"114","Senior IT Innovation Specialist ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",14548
+"115","Software Developer (.Net/C#)","Capgemini Polska Sp. z o.o.","Katowice (śląskie)",7013
+"116","Senior User Experience Designer ","Capgemini Polska Sp. z o.o.","Kraków (małopolskie)",13514
+"117","High Touch Engineer","ManpowerGroup Sp. z o.o.","Katowice (śląskie)",17701
+"118","Programista C#","KS Service","Kraków (małopolskie)",12127
+"119","Programista C#","KS Service","Kraków (małopolskie)",4120
+"120","Inżynier Wsparcia Informatycznego","KS Service","Kraków (małopolskie)",15303
+"121","Programista systemów wbudowanych","KS Service","Wrocław (dolnośląskie)",17647
+"122","Tester oprogramowania","KS Service","Bielsko-Biała (śląskie)",10282
+"123","C C++ Embedded Software Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13874
+"124","Programista C#","PRESS-SERVICE Monitoring Mediów Sp. z o.o.","Poznań (wielkopolskie)",18282
+"125","Java Developer","Indata Solutions S.A.","Katowice (śląskie)",19472
+"126","Process Improvement Specialist","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",18517
+"127","IT Security Leader","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",7408
+"128","Junior Consultant/Consultant (BI, Cognos)","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",7687
+"129","Junior Consultant Admin","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",11452
+"130","Junior Consultant (EAG)","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",15199
+"131","License compliance consultant/IT Consultant","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",8168
+"132","Senior Consultant/Supervisor CRM ","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",3724
+"133","Consultant/Senior Consultant (Application)","K&K SELEKT CENTRUM DORADZTWA PERSONALNEGO","Rzeszów (podkarpackie)",18756
+"134","Sharepoint Developer","CPL Jobs Sp. z o.o.","Opole (opolskie)",7196
+"135","Frontend Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",19183
+"136","Junior Business Analyst (with German)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",4766
+"137","IT Business Analyst (with German)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",6425
+"138","Tester automatyczny","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",14801
+"139","Java Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",8631
+"140"," Web Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",14668
+"141","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",16975
+"142","Młodszy programista VBA (k/m) ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",17788
+"143","Senior Web Developer/ Frontend Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20208
+"144","Project Manager","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20926
+"145","C C++ Embedded Software Developer ","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",3791
+"146","UX Researcher","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",15525
+"147",".NET Software Developer","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",15612
+"148","Java Developer – challenging project in e-commerce","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",9664
+"149","Software Engineer","CPL Jobs Sp. z o.o.","Warszawa (mazowieckie)",16940
+"150","Młodszy programista VBA (k/m) ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",3166
+"151","Programista Embedded ","CPL Jobs Sp. z o.o.","mazowieckie",18546
+"152","Programista C/C++","CPL Jobs Sp. z o.o.","mazowieckie",7118
+"153","QA Engineer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",10407
+"154","Full Stack Engineer","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",10412
+"155","IT Service Level Manager","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",12397
+"156","Oracle / SQL Engineer ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",19480
+"157","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",7249
+"158","ABAP Developer/Senior ABAP Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21413
+"159","Senior Backend/Frontend Engineer (USA company)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14314
+"160","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",13546
+"161","Supply Chain Specialist","CPL Jobs Sp. z o.o.","Zabrze (śląskie)",13318
+"162","Senior Frontend Engineer (React / Angular)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",4412
+"163","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",3299
+"164","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",7842
+"165","ERP Implementation Consultant with German","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",4543
+"166","Continuous Improvement Specialist (m/f)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",11517
+"167","Continuous Improvement Specialist (m/f)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",20410
+"168","Quality Assurance Specialist",NA,"Wrocław (dolnośląskie)",5401
+"169","ERP Implementation Consultant with German","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18881
+"170","QA Specialist (Regular or Senior)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8720
+"171","SAP Business Analyst SD - new investment in Poznań (IT SAP Center for Europe)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",20656
+"172","Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",13973
+"173","Frontend Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8453
+"174","Frontend Developer ","CPL Jobs Sp. z o.o.","Opole (opolskie)",13010
+"175","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21372
+"176","Sharepoint Developer","CPL Jobs Sp. z o.o.","Opole (opolskie)",9003
+"177","Product Owner","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",19414
+"178","VBA Developer (Expert)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",16777
+"179","QA Specialist (Regular or Senior)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",16033
+"180","Programista C/C++","CPL Jobs Sp. z o.o.","mazowieckie",16376
+"181","IT Service Level Manager","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",20053
+"182","Software Test Automation Engineer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14403
+"183","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21074
+"184","Senior / Lead Java Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",12608
+"185","Junior / Regular QA Tester","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",21970
+"186","Embedded Software Engineer ","CPL Jobs Sp. z o.o.","Zielona Góra (lubuskie)",19485
+"187","Senior DevOps Engineer ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",9129
+"188","Software Tester ","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",9351
+"189","C++ Software Developer","CPL Jobs Sp. z o.o.","lubuskie",3751
+"190","SAP Business Analyst FI - new investment in Poznań (IT SAP Center for Europe)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",15962
+"191","DevOps Engineer (Remote work possible)","CPL Jobs Sp. z o.o.","Zielona Góra (lubuskie)",7472
+"192","Test Engineer","CPL Jobs Sp. z o.o.","Gdynia (pomorskie)",3014
+"193","IT Business Analyst","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",12550
+"194","Business Analyst IT","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",15124
+"195","Business Analyst IT","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20878
+"196","IT Project Manager ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",19823
+"197","SaaS Application Engineer (React.js)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",12253
+"198","Network Technical Architect","CPL Jobs Sp. z o.o.","kujawsko-pomorskie",9755
+"199","Agile Coach ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",10388
+"200","ABAP Developer/Senior ABAP Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18405
+"201","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",20468
+"202","Android Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",16750
+"203","C# Developer (with C++)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",14931
+"204","IT Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",6015
+"205","Manual Tester ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8255
+"206","VBA Developer ","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",19002
+"207","Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",4732
+"208","Java Web Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",21773
+"209","SaaS Application Engineer (Java, Python)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",4998
+"210","ERP Implementation Consultant with German","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8070
+"211","Continuous Improvement Specialist (m/f)","CPL Jobs Sp. z o.o.","Kraków (małopolskie)",14349
+"212","Cloud Application Engineer (Java, Python)","CPL Jobs Sp. z o.o.","dolnośląskie",11506
+"213","Web developer/ Business Analyst","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",4402
+"214","ASP.NET MVC Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",18936
+"215","Android Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14205
+"216","Dev Business Analyst (m/f)","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",14409
+"217","Java Web Developer","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",8921
+"218"," Web Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",10953
+"219","Network Technical Architect","CPL Jobs Sp. z o.o.","kujawsko-pomorskie",13551
+"220","IT Service Level Manager","CPL Jobs Sp. z o.o.","małopolskie",6405
+"221","Test Engineer","CPL Jobs Sp. z o.o.","Gdynia (pomorskie)",5250
+"222","Java Developer","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",6315
+"223","Tester automatyczny","CPL Jobs Sp. z o.o.","Gdańsk (pomorskie)",11058
+"224","Cloud Senior Front End Developer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",7834
+"225","C# Developer (with C++)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",5894
+"226","Młodszy Tester/Analityk IT - bez doświadczenia","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",6955
+"227","Konsultant SAP FI/CO","itelligence Sp. z o.o.","Poznań (wielkopolska)",13352
+"228","Test Engineer","CPL Jobs Sp. z o.o.","Katowice (śląskie)",8592
+"229","Konsultant SAP WM/MM","itelligence Sp. z o.o.","Warszawa (mazowieckie)",20516
+"230","Konsultant SAP SD","itelligence Sp. z o.o.","Gdynia (pomorskie)",10550
+"231","IT Risk Analyst (Senior / Analyst)","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",8543
+"232","Konsultant SAP ABAP","itelligence Sp. z o.o.","Warszawa (mazowieckie)",11575
+"233","QA / Test Leader","CPL Jobs Sp. z o.o.","Katowice (śląskie)",14082
+"234","Kierownik Projektu/Presales Manager","itelligence Sp. z o.o.","Poznań (wielkopolskie)",18645
+"235","Konsultant SAP Hybris/Architekt SAP Hybris","itelligence Sp. z o.o.","Katowice (śląskie)",18819
+"236","Konsultant SAP FI/CO","itelligence Sp. z o.o.","Warszawa (warszawa)",14468
+"237","Administrator systemu SAP Basis","itelligence Sp. z o.o.","Wrocław (dolnośląskie)",10655
+"238","Network Technical Architect","CPL Jobs Sp. z o.o.","Poznań (wielkopolskie)",11524
+"239","Automation Test Engineer ","CPL Jobs Sp. z o.o.","Wrocław (dolnośląskie)",9093
+"240","Test Engineer","CPL Jobs Sp. z o.o.","Warszawa (mazowieckie)",7195
+"241",NA,NA,"Katowice (śląskie)",13196
+"242",NA,NA,"Poznań (wielkopolskie)",17912
+"243",NA,NA,"Katowice (śląskie)",17283
+"244",NA,NA,"Poznań (wielkopolskie)",21426
+"245",NA,NA,"Poznań (wielkopolskie)",14393
+"246",NA,NA,"kujawsko-pomorskie",4658
+"247",NA,NA,"Wrocław (dolnośląskie)",17926
+"248",NA,NA,"Gdynia (pomorskie)",9051
